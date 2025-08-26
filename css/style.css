@@ -1,0 +1,115 @@
+.back{
+    width: 100vw;
+    height: 100vh;
+    background-color: #ebf1ffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.blue{
+    width: 315px;
+    height: 430px;
+    background-color:  rgb(57, 79, 241);
+    opacity: 80%;
+    border-radius: 20px;
+}
+
+.p{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: larger;
+    opacity: 60%;
+    
+}
+
+.round{
+    width: 170px;
+    height: 170px;
+    background-color: #1125d4ff;
+    border-radius: 100px;
+    margin-top: 10px;
+    margin: 0 auto;
+    opacity: 70%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    gap: 10x;
+    flex-direction: column;
+ 
+}
+
+.number{
+    font-size: 60px;
+    color: white;
+    text-align: center;
+}
+
+.numer{
+    color: white;
+    opacity: 50%;
+
+}
+
+
+.great{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.text{
+    color: white;
+    opacity: 60%;
+    margin-top: 20px;
+    margin-left: 65px;
+    max-width: 200px;
+    text-align: center;
+    line-height: 1.4;
+    font-size: 16px;
+    
+}
+
+.white{
+    width: 630px;
+    height: 430px;
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-start;
+    flex-direction: row; 
+   
+
+}
+
+.white-box {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding-left: 10px;
+}
+
+
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.div {
+    width: 70px;
+    height: 70px;
+    background-color: #e0e0e0;
+    border-radius: 10px;
+}
+
+
+
+
